@@ -15,21 +15,19 @@
 
 概要设计
 
-![概要设计](https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E5%9B%BE.png){:height="50%" width="50%"}
+<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E5%9B%BE.png" width=70% high=70%>
 
 视频模块详细设计
 
-![视频模块详细设计](https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/video/%E8%A7%86%E9%A2%91%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1.png){:height="50%" width="50%"}
+<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/video/%E8%A7%86%E9%A2%91%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1.png" width=70% high=70%>
 
 温湿度模块详细设计
 
-![温湿度模块详细设计](https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/humiture/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%AE%BE%E8%AE%A1%E5%9B%BE.png){:height="50%" width="50%"}
+<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/framework/humiture/%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%AE%BE%E8%AE%A1%E5%9B%BE.png" width=70% high=70%>
 
-## 项目展示（）
+## 项目展示（2020.09）
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/demoVideo.mp4" type="video/mp4">
-</videos>
+<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/demoVideo.gif" width=50% high=50%>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
