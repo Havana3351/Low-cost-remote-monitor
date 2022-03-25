@@ -27,7 +27,7 @@
 
 ## 项目展示（2020.09）
 
-<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/demoVideo.gif" width=50% high=50%>
+<img src="https://github.com/Havana3351/Low-cost-remote-monitor/blob/main/document/demoVideo.gif" width=70% high=70%>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
