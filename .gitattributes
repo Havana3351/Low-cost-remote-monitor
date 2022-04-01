@@ -1,3 +1,5 @@
 *.html linguist-language=Vue
 *.css linguist-language=Vue
 *.js linguist-language=Vue
+*.json linguist-language=Vue
+*.rst linguist-language=Vue
